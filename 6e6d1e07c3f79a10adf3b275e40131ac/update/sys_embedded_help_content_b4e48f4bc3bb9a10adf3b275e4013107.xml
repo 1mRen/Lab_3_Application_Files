@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ai_generated>false</ai_generated>
+        <category/>
+        <content><![CDATA[<h1 class="title topictitle1">Using the needit Form</h1>
+<p>Use the needit application to request services and good from several departments.</p>
+<ul class="steps-unordered"><li class="li step">Legal</li><li class="li step">Human Resources</li><li class="li step">Facilities</li></ul>
+<p><span class="ph uicontrol">Needit Form Fields</span></p>
+<ol><li> For new NeedIt records, the Requested for field is pre-populated with your name. If you are opening a Needit request for someone else, you can change the value in the Requested for field.</li><li> The requested for email field is automatically populated if you change the user in the Requested for field. You can change the Requested for email field value.</li><li> The choices in the What needed field depend on the value in the Request type field.</li><li> If the value in the What needed field is Other, the Otherfield appers. Use the Other field to add a few words about your request.</li><li>Use the calendar picker in the When needed field to set the due date for the NeedIt request</li><li>Use the Short description and Description fields to provide more information about your request. </li></ol>
+<div class="note tm-element"><span class="notetitle">Note: When creating Needit reqeuest, the <em>When needed </em>date cannot be today or in the past.</span></div>
+<p><span class="ph uicontrol">Need More Help?</span></p>
+<p>You can learn about form fields on the ServiceNow docs site.</p>]]></content>
+        <last_sync/>
+        <modifier>normal</modifier>
+        <name>Marc Lawrence Magadan Needit Form</name>
+        <page>x_1624657_needit_needit</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>false</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-23 08:39:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b4e48f4bc3bb9a10adf3b275e4013107</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Marc Lawrence Magadan Needit Form</sys_name>
+        <sys_package display_value="NeedIt" source="x_1624657_needit">6e6d1e07c3f79a10adf3b275e40131ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6e6d1e07c3f79a10adf3b275e40131ac</sys_scope>
+        <sys_update_name>sys_embedded_help_content_b4e48f4bc3bb9a10adf3b275e4013107</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-23 08:53:25</sys_updated_on>
+        <version>all</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=b4e48f4bc3bb9a10adf3b275e4013107"/>
+</record_update>
